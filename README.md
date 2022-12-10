@@ -1,11 +1,13 @@
 
+
 # video streaming page
 
 This is a video streaming page
 
 
-## Ayinde ridwan
+## Live page below
 
-- [https://github.com/ayinde7277](https://www.github.com/octokatherine)
+- [live page](https://ayinde7277.github.io/video-streaming-page/)
+
 
 
