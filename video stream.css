@@ -252,7 +252,13 @@ header .user img {
 
 @media screen and (max-width:420px) {
   header .search {
-    width: 70%;
+    width: 40%;
+  }
+  header .user img {
+    width: 20px;
+    margin-right: 2px;
+    object-fit: contain;
+    cursor: pointer;
   }
 
   .grid {
